@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Yate.png</file>
+        <file>icon_log.png</file>
+        <file>Hotkeys.txt</file>
+        <file>StileWelcomMessage.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Yate.png</file>
+        <file>icon_log.png</file>
+    </qresource>
+</RCC>
